@@ -20,7 +20,7 @@ git push origin master
 ```
 * And then, you have a rightbar like me.. :cupid:
 
-See it:
+See it or see my profile: [@pierreneter](https://github.com/pierreneter)
 
 <img src="https://github.com/pierreneter/make-color-for-profile-rightside/blob/master/profile.png"/>
 
